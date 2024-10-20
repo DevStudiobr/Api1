@@ -1,4 +1,25 @@
 {
-  "message": "Olá, este é um exemplo de API!",
-  "status": "sucesso"
+  "ICMS": 18,
+  "IPI": 15,
+  "ISS": 5,
+  "PIS": 1.65,
+  "COFINS": 7.6,
+  "IRRF": 15,
+  "CSLL": 9,
+  "INSS": 20,
+  "SIMPLES": 6,
+  "Taxa_Alvará": 200,
+  "Taxa_Emissão_CPF": 7,
+  "Taxa_Emissão_CNPJ": 50,
+  "Taxa_Pert_Emissão": 30,
+  "Taxa_Licenciamento_Veículo": 100,
+  "Taxa_Multa_Trânsito": 150,
+  "Taxa_Registro_Imóvel": 0.5,
+  "Taxa_Importação": 60,
+  "Taxa_Exportação": 15,
+  "Taxa_Acessibilidade": 1.5,
+  "Taxa_TV_Cabo": 3.5,
+  "Taxa_Água": 1.2,
+  "Taxa_Energia": 0.8,
+  "Taxa_Seguro": 2.5
 }
