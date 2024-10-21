@@ -21,5 +21,14 @@
   "Taxa_TV_Cabo": 3.5,
   "Taxa_Água": 1.2,
   "Taxa_Energia": 0.8,
-  "Taxa_Seguro": 2.5
+  "Taxa_Seguro": 2.5,
+  "IPTU": 1,
+  "IPVA": 4,
+  "ITBI": 2,
+  "ITCMD": 4,
+  "Taxa_Limpeza_Urbana": 0.3,
+  "Taxa_Vigilância_Sanitária": 150,
+  "Taxa_Meio_Ambiente": 200,
+  "Taxa_Bombeiros": 100,
+  "Taxa_Vigilância_Sanitária_Alimentar": 120
 }
